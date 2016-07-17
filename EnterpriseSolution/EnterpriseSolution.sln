@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "burton.common.definitions", "burton.common.definitions\burton.common.definitions.csproj", "{7C70892B-0A78-4E37-B23C-EE8E2EAB54CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "burton.zooapplication", "burton.zooapplication\burton.zooapplication.csproj", "{BDD51C71-4138-413F-825B-0D1AE9EC6779}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "burton.common", "burton.common\burton.common.csproj", "{FCF29A6B-3443-44E1-92E2-63E12069CA0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "burton.zooconsoleapp1", "burton.consoleapp1\burton.zooconsoleapp1.csproj", "{381120CD-1535-4889-AB5B-12A034EBF006}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C70892B-0A78-4E37-B23C-EE8E2EAB54CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C70892B-0A78-4E37-B23C-EE8E2EAB54CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C70892B-0A78-4E37-B23C-EE8E2EAB54CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C70892B-0A78-4E37-B23C-EE8E2EAB54CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDD51C71-4138-413F-825B-0D1AE9EC6779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDD51C71-4138-413F-825B-0D1AE9EC6779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDD51C71-4138-413F-825B-0D1AE9EC6779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDD51C71-4138-413F-825B-0D1AE9EC6779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCF29A6B-3443-44E1-92E2-63E12069CA0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF29A6B-3443-44E1-92E2-63E12069CA0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF29A6B-3443-44E1-92E2-63E12069CA0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF29A6B-3443-44E1-92E2-63E12069CA0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{381120CD-1535-4889-AB5B-12A034EBF006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{381120CD-1535-4889-AB5B-12A034EBF006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{381120CD-1535-4889-AB5B-12A034EBF006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{381120CD-1535-4889-AB5B-12A034EBF006}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
